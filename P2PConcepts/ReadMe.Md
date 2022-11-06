@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/archive/msdn-magazine/2001/february/net-p2p-writing-peer-to-peer-networked-apps-with-the-microsoft-net-framework
